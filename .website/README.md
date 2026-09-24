@@ -1,4 +1,8 @@
 ---
+genres:
+  - roguelike
+  - action
+  - survival
 video: https://youtu.be/WyiUEu3HEjM
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
